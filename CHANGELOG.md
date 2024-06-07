@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.3...v0.1.4) (2024-06-07)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump go.anx.io/go-anxcloud from 0.6.4 to 0.7.0 ([#15](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/15)) ([d5eacbf](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/d5eacbf84c3aec027d0a15090f527b6dbe2244d6))
+* **deps:** bump go.anx.io/go-anxcloud from 0.7.0 to 0.7.1 ([#18](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/18)) ([3c70b4a](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/3c70b4ac9055d76c77b78bca4d09f62dbaa3acda))
+
 ## [0.1.3](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.2...v0.1.3) (2024-05-07)
 
 
