@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.7](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.6...v0.1.7) (2024-10-17)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump anchore/sbom-action from 0.17.2 to 0.17.3 ([#43](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/43)) ([a37d164](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/a37d1645666b40815741951dc193908a720b92c9))
+* **deps:** bump anchore/sbom-action from 0.17.3 to 0.17.4 ([#44](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/44)) ([6dc77be](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/6dc77be2af50b424218d4f7ae8e6b9b4a2bb6848))
+* **deps:** bump sigstore/cosign-installer from 3.6.0 to 3.7.0 ([#40](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/40)) ([693e4ee](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/693e4eeb7d5587c87b7f1b6cfcb6c8859b5291b5))
+
 ## [0.1.6](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.5...v0.1.6) (2024-09-25)
 
 
