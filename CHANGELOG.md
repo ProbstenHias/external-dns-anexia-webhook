@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.7](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.6...v0.1.7) (2024-10-23)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump anchore/sbom-action from 0.17.2 to 0.17.3 ([#43](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/43)) ([a37d164](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/a37d1645666b40815741951dc193908a720b92c9))
+* **deps:** bump anchore/sbom-action from 0.17.3 to 0.17.4 ([#44](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/44)) ([6dc77be](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/6dc77be2af50b424218d4f7ae8e6b9b4a2bb6848))
+* **deps:** bump anchore/sbom-action from 0.17.4 to 0.17.5 ([#47](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/47)) ([64ddaec](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/64ddaec0522858de8bf59f0c96c5d348b05793aa))
+* **deps:** bump go.anx.io/go-anxcloud from 0.7.3 to 0.7.4 ([#45](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/45)) ([8ba5b44](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/8ba5b444344639ae0ccb7610d606b1979e06501f))
+* **deps:** bump go.anx.io/go-anxcloud from 0.7.4 to 0.7.5 ([#46](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/46)) ([9968c93](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/9968c93d923440d9cd393f0cfeed52262a7310a7))
+* **deps:** bump sigstore/cosign-installer from 3.6.0 to 3.7.0 ([#40](https://github.com/ProbstenHias/external-dns-anexia-webhook/issues/40)) ([693e4ee](https://github.com/ProbstenHias/external-dns-anexia-webhook/commit/693e4eeb7d5587c87b7f1b6cfcb6c8859b5291b5))
+
 ## [0.1.6](https://github.com/ProbstenHias/external-dns-anexia-webhook/compare/v0.1.5...v0.1.6) (2024-09-25)
 
 
