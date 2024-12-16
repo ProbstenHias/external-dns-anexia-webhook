@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/anexia/k8s-external-dns-webhook/compare/v0.2.0...v0.2.1) (2024-12-16)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump anchore/sbom-action from 0.17.7 to 0.17.8 ([#52](https://github.com/anexia/k8s-external-dns-webhook/issues/52)) ([4f5bda0](https://github.com/anexia/k8s-external-dns-webhook/commit/4f5bda0fe19cbc69022d0d88580411777ec30ed4))
+* fix repository name in all *.md files ([#58](https://github.com/anexia/k8s-external-dns-webhook/issues/58)) ([d00d80c](https://github.com/anexia/k8s-external-dns-webhook/commit/d00d80c5608d8f86191f6340652eebd3e3baea69))
+* migrate goreleaser to newest configuration ([#57](https://github.com/anexia/k8s-external-dns-webhook/issues/57)) ([1652ccb](https://github.com/anexia/k8s-external-dns-webhook/commit/1652ccb3f1ec4ed33aa3b37f639550049916b926))
+
 ## [0.2.0](https://github.com/anexia/k8s-external-dns-webhook/compare/v0.1.6...v0.2.0) (2024-12-04)
 
 :warning: As part of the migration to the Anexia organisation, the path to the container image changed!
